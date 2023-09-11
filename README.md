@@ -1,32 +1,20 @@
+# 🚀 Repositório de Demos VPython 🪐
 
-<span align="center">
-  
-##  Exercícios de física básica aplicados ao VPython
-  
-</span>
+Bem-vindo ao meu repositório de Demos VPython! Aqui você encontrará uma coleção de exemplos interativos e soluções para questões de física usando a biblioteca VPython.
 
-**Exemplo 1**
-<br>
-Uma pedra é deixada cair em um rio a partir de uma ponte situada $43,9 \ m$ acima da água. Outra
-pedra é atirada verticalmente para baixo $1,0 \ s$ após a primeira ter sido deixada cair. As pedras atingem a água ao mesmo tempo. <br>
-(a) Qual era a velocidade inicial da segunda pedra? <br>
-(b) Plote a velocidade em função do tempo para as duas pedras, supondo que $t = 0$ é o instante em que a primeira pedra foi deixada cair. <br>
-https://github.com/gabryus/vpython/blob/main/scripts/exemplo1.py
+## 🌟 Introdução ao VPython
 
-**Exemplo 2**
-<br>
-Na Fig. abaixo, uma pedra é lançada para o alto de um rochedo de altura $h$ com uma velocidade inicial de $42,0 \ m/s$ e um ângulo $\theta = 60,0°$ com a horizontal. A pedra cai em um ponto A, $5,50 \ s$ após o lançamento. <br>
-(a) Determine a altura h do rochedo. <br>
-(b) Determine a velocidade da pedra imediatamente antes do impacto em A.<br>
-(c) Determine a altura máxima H alcançada acima do solo.<br>
+VPython é uma poderosa biblioteca de visualização 3D que torna a criação de simulações interativas e gráficos relacionados à física mais fácil do que nunca. Neste repositório, você encontrará uma variedade de exemplos que demonstram os princípios fundamentais da física, bem como soluções para questões específicas de física usando VPython.
 
-<img src="https://github.com/gabryus/vpython/blob/main/imagens/exemplo2.png" width="700px" /> <br>
-https://github.com/gabryus/vpython/blob/main/scripts/exemplo2.py
+## 📊 Exemplos de Demonstração
 
+A pasta de exemplos contém scripts VPython que ilustram conceitos gerais de física. Esses exemplos são interativos e incluem comentários explicativos para ajudar na compreensão dos princípios físicos em jogo. Explore esta pasta para aprofundar sua compreensão de tópicos como movimento, dinâmica e energia.
 
-**Exemplo 3**
-<br>
-Distância de freada. <br>
-(a) Se o coeficiente de atrito cinético entre os pneus e um pavimento seco for de $0,80$, qual é a menor distância para fazer um carro parar travando o freio, quando o carro se desloca a $28,7 \ m/s$? <br>
-(b) Sobre um pavimento molhado, o coeficiente de atrito cinético se reduz a $0,25$. A que velocidade você poderia dirigir no pavimento molhado para que o carro parasse na mesma distância calculada em (a)? <br>
-https://github.com/gabryus/vpython/blob/main/scripts/exemplo3.py
+## 📚 Questões de Física Resolvidas
+
+A pasta de questões contém scripts VPython que são usados para resolver questões específicas de livros de física. Cada script aborda uma questão particular e apresenta uma simulação que ajuda a visualizar e resolver o problema proposto. Esses scripts são uma ferramenta valiosa para a prática da aplicação de conceitos de física em cenários do mundo real.
+
+## 🚀 Como Usar Este Repositório
+
+- Explore os exemplos na pasta `exemplos` para ver simulações interativas de conceitos gerais de física.
+- Verifique a pasta `questoes` para encontrar soluções para questões específicas de física.
