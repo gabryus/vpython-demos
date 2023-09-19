@@ -21,7 +21,7 @@ Na Fig. abaixo, uma pedra é lançada para o alto de um rochedo de altura $h$ co
 
 **(c)** Determine a altura máxima $H$ alcançada acima do solo.
 
-![Imagem do Exercício 2](https://github.com/gabryus/vpython/blob/main/questoes/imagens/exemplo2.png)
+![Imagem do Exercício 2](https://github.com/gabryus/vpython/blob/main/questoes/imagens/questao2.png)
 
 [🔗 Link para o script do Exercício 2](https://github.com/gabryus/vpython-demos/blob/main/questoes/cinematica-lancamento-obliquo.py)
 
